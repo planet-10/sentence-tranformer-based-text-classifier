@@ -3,6 +3,8 @@
 00_data/parsing_results/*
 00_data/encoding_based_similarity_analysis_results/*
 00_data/evaluation_results/*
+00_data/keyword_search_results/*
+00_data/queries/query_sentences.json
 
 # Jupyter
 .ipynb_checkpoints/*
