@@ -1,0 +1,42 @@
+{
+"1) Materiality and risks" : [
+    "The activities of our suppliers can have a significant impact on local or indigenous communities, minorities, or vulnerable groups.",
+    "Heightened attention is required when a supplier operates in a jurisdiction that experiences political instability, weak governance, or repression of minority groups.",
+    "The activities of our suppliers can have a significant impact on worker's rights in jurisdictions with weak labour regulation and limited freedom of association.",
+    "We may potentially be exposed to conflict minerals.",
+    "We may potentially be exposed to child labour.",
+    "We may potentially be exposed to forced labour",
+    "We may potentially be exposed to modern slavery",
+    "We may potentially be exposed to human trafficking"
+], 
+"2) Policies or commitments regarding human rights" : [
+    "We strive to assume our responsibilities in accordance with the International Bill of human rights",
+    "We strive to assume responsibility in accordance with the principles on human rights,, the UN Global Compact as well as  conventions of the International Labour Organization.",
+    "We commit ourselves to the United Nation's Protect, Respect and Remedy Framework.",
+    "We aim to eliminate child labor and we aim to pay a living wage to all workers in our supply chain.",
+    "We will ensure that labour rights and the right to unionise are respected.",
+    "We seek to play our part in eliminating forced labour.",
+    "We seek to play our part in eliminating child labour.",
+    "By 20# we will have no child labour in our supply chain.",
+    "By 20# we will have no forced labour in our supply chain.",
+    "By 20# we will pay living wages to all workers in our supply chain."
+], 
+"3) Actions to prevent or mitigate potential negative impacts on human rights" : [
+    "We demand actions from suppliers to reduce child labour.",
+    "We make living wages part or the contract with our suppliers."
+], 
+"4) Actions to address or remedy actual negative impacts" : [
+    "We have an independent grievance mechanism in place that is available to employees, local communities and other stakeholders that are affected from our business operations.",
+    "We have an independent whistleblower mechanism in place for employees and other workers, local community and civil society members.",
+    "Employees and affected communities and stakeholders can file a complaint with the office of the independent ombudsperson",
+    "A committee of external experts reviews all complaints received"
+],
+"5) Indicators and processes used to track or evaluate the effectiveness of the actions" : [
+], 
+"6) Effectiveness of the actions, including progress toward the goals and targets" : [
+    "The share of workers receiving living wages is <#>.",
+    "The total number of children not engaging in child labor is <#>.",
+    "The number of child labor cases has been reduced by <#> during the reporting period",
+    "The number of forced labor cases has been reduced by <#> during the reporting period"
+]
+}

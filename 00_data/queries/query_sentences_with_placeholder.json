@@ -1,0 +1,48 @@
+{
+"1) Materiality and risks" : [
+    "The sourcing of raw materials may be linked to adverse impacts on <placeholder>.",
+    "Business activities in a conflict zone may include violation of <placeholder>.",
+    "We operate in a sector with known <placeholder> issues",
+    "Particular attention is required when we work in a country where <placeholder> are not guaranteed.",
+    "We understand our exposure to <placeholder> violations in our supply chain."
+], 
+"2) Policies or commitments regarding human rights" : [
+    "We are committed to <placeholder> and respect them as a key element of responsible business conduct.",
+    "We consider <placeholder> issues in our supply chain",
+    "We recognize our responsibilities as an employer in the area of <placeholder>.",
+    "We consider our responsibilities in the area of <placeholder> as fundamental to how we do business.",
+    "Upholding <placeholder> is our key concern."
+], 
+"3) Actions to prevent or mitigate potential negative impacts on human rights" : [
+    "We have established a structured due diligence assessments of our operations in place to identify where <placeholder> risks may exist.",
+    "We have established a structured due diligence assessments of our suppliers in place to identify where <placeholder> risks may exist.",
+    "We conduct regular <placeholder> reviews of our operations and suppliers",
+    "We conduct regular <placeholder> impact assessments of specific operations.",
+    "We conduct regular training of our employees on <placeholder>",
+    "We conduct regular training of our suppliers on <placeholder>",
+    "Our actions include training on <placeholder>.",
+    "We make <placeholder> part or the contract with our suppliers.",
+    "We launched an action plan on <placeholder>.",
+    "We have improved our system to detect violation of <placeholder>"
+], 
+"4) Actions to address or remedy actual negative impacts" : [
+    "Our independent board of experts decides on corrective actions to remedy <placeholder> complaints."
+],
+"5) Indicators and processes used to track or evaluate the effectiveness of the actions" : [
+    "Our monitoring system measures compliance with <placeholder>",
+    "We regularly measure progress on <placeholder>",
+    "We have established a system of robust indicators to monitor performance in <placeholder> issues.",
+    "Our indicators to monitor <placeholder> are …",
+    "We carry out visits to verify progress on <placeholder>.",
+    "All operations are subject to regular performance review of <placeholder> performance."
+], 
+"6) Effectiveness of the actions, including progress toward the goals and targets" : [
+    "We have trained <#>percent of our suppliers on <placeholder> issues.",
+    "The total number of <placeholder> incidents is <#> during the reporting period",
+    "<#> grievances related to <placeholder> were filed during the reporting period.",
+    "<#> complaints related to <placeholder> were filed during the reporting period.",
+    "We have reviewed and addressed <#> grievances and complaints related to <placeholder> during the reporting period.",
+    "We have resolved <#> grievances / complaints related to <placeholder> during the reporting period.",
+    "We have resolved by mediation <#> <placeholder> grievances during the reporting period."
+]
+}
