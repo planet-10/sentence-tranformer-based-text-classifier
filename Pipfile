@@ -14,6 +14,7 @@ matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 jupyter = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 ipykernel = "*"
