@@ -2,11 +2,12 @@
 00_data/encoding_results/*
 00_data/parsing_results/*
 00_data/encoding_based_similarity_analysis_results/*
+00_data/evaluation_results/*
 
 # Jupyter
 .ipynb_checkpoints/*
 
-#OSX
+# macOS
 .DS_Store
 
 # +----------------------------+
