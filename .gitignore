@@ -4,7 +4,6 @@
 00_data/encoding_based_similarity_analysis_results/*
 00_data/evaluation_results/*
 00_data/keyword_search_results/*
-00_data/queries/query_sentences.json
 00_data/validation_data/pdfminer_matched_sentences.json
 
 # Jupyter

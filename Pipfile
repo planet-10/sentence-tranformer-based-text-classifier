@@ -15,6 +15,7 @@ seaborn = "*"
 plotly = "*"
 jupyter = "*"
 xlsxwriter = "*"
+pymupdf = "*"
 
 [dev-packages]
 ipykernel = "*"
